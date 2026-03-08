@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "tri-delivery-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0988a772-ad0f-4864-ad68-1248f3fada88",
+			"database_name": "tri-delivery"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
